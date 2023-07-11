@@ -1,3 +1,2 @@
-# Github App
 
 Test Repository
